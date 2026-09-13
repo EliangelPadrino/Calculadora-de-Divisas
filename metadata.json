@@ -1,0 +1,6 @@
+{
+  "name": "DivisaCalc",
+  "description": "Un sofisticado conversor de divisas y calculadora inteligente con soporte fuera de línea, tasas en tiempo real de USD, EUR y VES, e iluminador de divisas por color.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
